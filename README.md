@@ -123,8 +123,6 @@ plt.show()
 <img width="690" height="402" alt="image" src="https://github.com/user-attachments/assets/3862af7d-288d-4dd3-a7ba-12df4f11cc7a" />
 <img width="588" height="453" alt="image" src="https://github.com/user-attachments/assets/660fa323-30b7-4008-81dc-63b11b983fd5" />
 <img width="787" height="431" alt="image" src="https://github.com/user-attachments/assets/7497983e-54bc-4cf1-9416-13668b7aae4d" />
-<img width="579" height="436" alt="image" src="https://github.com/user-attachments/assets/e67b88ea-ac7b-4b92-a27b-d4ab37220635" />
-<img width="653" height="396" alt="image" src="https://github.com/user-attachments/assets/c76791c8-b911-45dd-ab02-1c2466908835" />
 
 ### RESULT:
 Thus the program to implement Face Detection using Haar Cascades was executed successfully.
